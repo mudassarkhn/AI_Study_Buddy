@@ -1,0 +1,9 @@
+{
+  "user_email": "rick@gmail.com",
+  "file_path": "",
+  "file_type": "text",
+  "raw_text": "INTRODUCTION TO COMPUTERS\nWhat is a computer?\nA computer is a general-purpose electronic machine that receives / accepts, processes, stores and output data into meaningful information.\nA computer can also be defined as an electronic device operating under control of instructions stored in its own memory that can accept data, manipulate the data according to specified rules, produce results, and store the results for future use.\n\nCharacteristics of Computers:\nSpeed: The computers process data at an extremely fast rate, at millions or billions of instructions per second.\nAccuracy: Computers are very accurate and do not make mistakes if instructions are correct.\nDiligence: Computers do not suffer from tiredness or lack of concentration.\nReliability: Reliability measures performance without failure.\nStorage Capability: Computers can store large amounts of data and retrieve it quickly.\nVersatility: Computers can perform multiple tasks simultaneously.\nResource Sharing: Computers can share devices, data, and information over networks.",
+  "topics_no": 2,
+  "study_time_per_day": "300",
+  "exam_date": "2025-12-22"
+}
